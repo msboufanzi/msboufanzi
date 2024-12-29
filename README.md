@@ -1,4 +1,7 @@
 # 💫 About Me:
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Software+Enginner;DevOps+Enginner;" alt="sohaib manah skills " /></a>
+</p>
 My name is mohamed said boufanzi<br><br>👤 I’m a Software Engineering Student<br>🔭 I’m currently working on an online magazine (Tech Horizons)<br>🌱 I’m currently learning laravel<br>👯 I’m looking to collaborate on Github.com<br>📫 How to reach me: boufanzi@gmail.com
 
 
