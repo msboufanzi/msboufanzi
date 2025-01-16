@@ -19,5 +19,3 @@ My name is mohamed said boufanzi<br><br>👤 I’m a Software Engineering Studen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=msboufanzi&theme=dark&hide_border=false)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=msboufanzi&icon=0&color=0)](https://visitcount.itsvg.i
